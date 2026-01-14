@@ -47,12 +47,6 @@ After completing this project, you will be able to:
 
 ## 📁 Project Structure
 
-Full-Stack-Experiment-1/
-├── Exp-1.1/ → Simple Counter SPA
-├── Exp-1.2/ → To-Do List SPA
-├── Exp-1.3/ → Theme Toggle SPA
-├── Exp-1.4/ → Form Handling SPA
-└── README.md
 
 ---
 
