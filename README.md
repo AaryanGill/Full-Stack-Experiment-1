@@ -48,13 +48,11 @@ After completing this project, you will be able to:
 ## 📁 Project Structure
 
 Full-Stack-Experiment-1/
-│
 ├── Exp-1.1/ → Simple Counter SPA
 ├── Exp-1.2/ → To-Do List SPA
 ├── Exp-1.3/ → Theme Toggle SPA
 ├── Exp-1.4/ → Form Handling SPA
-│
-└── README.md → Main Project Documentation
+└── README.md
 
 ---
 
@@ -67,13 +65,11 @@ Full-Stack-Experiment-1/
 
 2. **cd Exp-1.2**
 
-
-Install required dependencies
+   Install required dependencies
 
 3. **npm install**
 
-
-Start the development server
+   Start the development server
 
 4. **npm start**
 
@@ -81,15 +77,15 @@ Start the development server
 
 ## ✨ Key Features
 
--Beginner-friendly React projects
+- Beginner-friendly React projects
 
--Clean and readable code structure
+- Clean and readable code structure
 
--Modular experiment-wise folders
+- Modular experiment-wise folders
 
--Suitable for college practicals and viva
+- Suitable for college practicals and viva
 
--Well-documented and GitHub-ready
+- Well-documented and GitHub-ready
 
 ---
 
@@ -102,6 +98,8 @@ Chandigarh University**
 **📧 Email: 23BAI70473@cuchd.in**
 
 **🔗 GitHub: https://github.com/AaryanGill**
+
+---
 
 ## 📜 License
 
