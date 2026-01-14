@@ -1,16 +1,36 @@
-# React + Vite
+Experiment-1.1: Basic React SPA
+🎯 Aim
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To understand the basic structure of a Single Page Application (SPA) using React.
 
-Currently, two official plugins are available:
+📘 Objective
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn how a React application works
 
-## React Compiler
+Understand component-based architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Render content dynamically without page reload
 
-## Expanding the ESLint configuration
+🛠️ Tools & Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React.js
+
+JavaScript (ES6)
+
+HTML
+
+CSS
+
+Node.js & npm
+
+🧪 Description
+
+This experiment demonstrates a basic React SPA where content is rendered using React components. It helps in understanding how SPAs work compared to traditional multi-page applications.
+
+✅ Learning Outcomes
+
+I learned how to create a React project.
+
+I learned how React components work.
+
+I understood the concept of SPA.
