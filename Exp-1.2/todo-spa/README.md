@@ -1,16 +1,42 @@
-# React + Vite
+Experiment-1.2: Simple To-Do List SPA
+🎯 Aim
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To develop a basic To-Do List Single Page Application using React.
 
-Currently, two official plugins are available:
+📘 Objective
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use React state to manage data
 
-## React Compiler
+Add and delete tasks dynamically
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Understand event handling in React
 
-## Expanding the ESLint configuration
+🛠️ Tools & Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React.js
+
+JavaScript
+
+HTML
+
+CSS
+
+🧪 Description
+
+This application allows users to add tasks to a list and delete them when completed. React state is used to store and update the task list dynamically.
+
+✨ Features
+
+Add new tasks
+
+Delete existing tasks
+
+Real-time UI update
+
+✅ Learning Outcomes
+
+I learned how to use useState in React.
+
+I learned how to handle user events.
+
+I understood dynamic rendering in React.
