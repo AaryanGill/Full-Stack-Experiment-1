@@ -65,40 +65,44 @@ Full-Stack-Experiment-1/
    git clone https://github.com/AaryanGill/Full-Stack-Experiment-1.git
    Navigate to any experiment folder
 
-2. cd Exp-1.2
+2. **cd Exp-1.2**
 
 
 Install required dependencies
 
-3. npm install
+3. **npm install**
 
 
 Start the development server
 
-4. npm start
+4. **npm start**
 
-✨ Key Features
+---
 
-Beginner-friendly React projects
+## ✨ Key Features
 
-Clean and readable code structure
+-Beginner-friendly React projects
 
-Modular experiment-wise folders
+-Clean and readable code structure
 
-Suitable for college practicals and viva
+-Modular experiment-wise folders
 
-Well-documented and GitHub-ready
+-Suitable for college practicals and viva
 
-👨‍🎓 Author
+-Well-documented and GitHub-ready
 
-Aaryan Gill
+---
+
+## 👨‍🎓 Author
+
+**Aaryan Gill
 B.Tech CSE (AI & ML)
-Chandigarh University
+Chandigarh University**
 
-📧 Email: 23BAI70473@cuchd.in
+**📧 Email: 23BAI70473@cuchd.in**
 
-🔗 GitHub: https://github.com/AaryanGill
+**🔗 GitHub: https://github.com/AaryanGill**
 
-📜 License
+## 📜 License
 
 This project is created for educational and academic purposes only.
