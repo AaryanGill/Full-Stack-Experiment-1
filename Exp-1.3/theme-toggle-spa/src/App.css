@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", "Segoe UI", sans-serif;
+}
+
+/* Make React app cover full screen */
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.app {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* Card layout */
+.card {
+  padding: 40px 55px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.25);
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+/* Button */
+button {
+  padding: 14px 30px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* LIGHT THEME */
+.light {
+  background: linear-gradient(135deg, #e0f2fe, #f8fafc);
+  color: #0f172a;
+}
+
+.light .card {
+  background: #ffffff;
+}
+
+.light button {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+/* DARK THEME */
+.dark {
+  background: linear-gradient(135deg, #020617, #0f172a);
+  color: #f8fafc;
+}
+
+.dark .card {
+  background: #020617;
+}
+
+.dark button {
+  background: #facc15;
+  color: #020617;
+}
